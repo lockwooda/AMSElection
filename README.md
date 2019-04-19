@@ -13,8 +13,8 @@ This program is designed to take in results for set regions of the UK and attemp
 ## Assumptions
 The flavour of AMS used here is akin to that seen in the Scottish and Welsh devolved elections, where regions are given a set number of party vote MPs to elect.
 
-We will assume:
-- The party vote is the popular vote for a party in a given region
+We will assume: 
+- The party vote is the popular vote for a party in a given region 
 - There are 650 MPs elected to the House of Commons
 	- 400 of these are from constituencies
 	- 250 of these are for regional list MPs
